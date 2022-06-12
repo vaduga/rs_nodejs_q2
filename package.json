@@ -1,0 +1,10 @@
+{
+  "name": "rs_nodejs_q2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/script.js"
+  }
+}
